@@ -29,3 +29,6 @@ I'd appreciate credits for the framework though.
 
 # Why is it called Rosa?
 Cause Rosalina, and Rosalina = Best Princess.
+
+# Anything else I should know?
+Yes, take a look at the wiki!
