@@ -23,7 +23,7 @@ No offense to Gate and others of course, but sometimes less is more.<br />.<br /
 But if you are looking for something with more content, I recommend checking out https://github.com/GateteVerde/Gatete-Mario-Engine-9.
 
 # What am I allowed to do with this?
-I really don't care about that.<br /> Make your own Mario Maker, Hello's "The Shroom Project" clone or a remake of "Peach’s Untold Tale "<br />
+I really don't care about that.<br /> Make your own Mario Maker, Hello's "The Shroom Project" clone or a remake of "Peach’s Untold Tale"<br />
 I could care less, just have fun doing something.<br /><br />
 I'd appreciate credits for the framework though.
 
