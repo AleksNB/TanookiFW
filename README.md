@@ -26,3 +26,6 @@ But if you are looking for something with more content, I recommend checking out
 I really don't care about that.<br /> Make your own Mario Maker, Hello's "The Shroom Project" clone or a remake of "Peach’s Untold Tale "<br />
 I could care less, just have fun doing something.<br /><br />
 I'd appreciate credits for the framework though.
+
+# Why is it called Rosa?
+Cause Rosalina, and Rosalina = Best Princess.
