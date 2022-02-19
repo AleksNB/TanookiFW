@@ -31,4 +31,7 @@ I'd appreciate credits for the framework though.
 Cause Rosalina, and Rosalina = Best Princess.
 
 # Anything else I should know?
-Yes, take a look at the wiki!
+Yes, take a look at the wiki!<br /><br />
+Do keep in mind that you should have at least some knowledge of Game Maker and GML, it's programming language.<br />
+
+Even if you just want to make a fangame without adding new content to it.
