@@ -8,7 +8,7 @@ The purpose of this framework is to give you a simple to use base to make Mario 
 The game physics in this framework are not 1 to 1 accurate to the original SMB3, but close enough that you probably won't notice a difference.
 
 # Why GMS 1.4?
-To allo as many people as possible to use it.<br />
+To allow as many people as possible to use it.<br />
 A lot of people still use this version of GMS because it's faster and the UI isn't as awful like GMS 2's.<br />
 Additionally, it's very easy to find a "legit" copy of 1.4, while it's impossible for GMS 2.<br /><br />
 "But Game Maker Studio 2 is free to use now, what do you mean?"<br /><br />
