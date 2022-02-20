@@ -4,7 +4,7 @@ A open-source Mario framework for GMS 1.4.9999 and 2.x
 # What is this?
 RosaFW is a open-source Mario Bros 3 styled framework for Game Maker Studio 1.4 and 2.x<br />
 The Framework was build using GMS 1.4 but is fully compatible with Studio 2.x.<br /><br />
-The purpose of this framework is to give you a simple to use base to make Mario fangames in. (Or even indie games really)<br />
+The purpose of this framework is to give you a simple to use base to make Mario fangames in.><br />(Or even indie games really)<br />
 The game physics in this framework are not 1 to 1 accurate to the original SMB3, but close enough that you probably won't notice a difference.
 
 # Why GMS 1.4?
