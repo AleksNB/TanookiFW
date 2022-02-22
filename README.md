@@ -1,8 +1,8 @@
-# RosaFW
+# Tanooki FW.
 A open-source Mario framework for GMS 1.4.9999 and 2.x
 
 # What is this?
-RosaFW is a open-source Mario Bros 3 styled framework for Game Maker Studio 1.4 and 2.x<br />
+TanookiFW is a open-source Mario Bros 3 styled framework for Game Maker Studio 1.4 and 2.x<br />
 The Framework was build using GMS 1.4 but is fully compatible with Studio 2.x.<br /><br />
 The purpose of this framework is to give you a simple to use base to make Mario fangames in.><br />(Or even indie games really)<br />
 The game physics in this framework are not 1 to 1 accurate to the original SMB3, but close enough that you probably won't notice a difference.
@@ -29,9 +29,6 @@ But if you are looking for something with more content, I recommend checking out
 I really don't care about that.<br /> Make your own Mario Maker, or a remake of "Peach’s Untold Tale"<br />
 I could care less, just have fun doing something with it.<br /><br />
 I'd appreciate credits for the framework though.
-
-# Why is it called Rosa?
-Cause Rosalina, and Rosalina = Best Princess.
 
 # Anything else I should know?
 Yes, take a look at the wiki!<br /><br />
